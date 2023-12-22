@@ -1,0 +1,7 @@
+{
+    "name": "SRS Stack",
+    "description": "Live streaming and WebRTC",
+    "keywords": ["WebRTC, Live Streaming"],
+    "repository": "https://github.com/nyonnguyen/srs-stack",
+    "stack": "container"
+}
